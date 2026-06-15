@@ -16,6 +16,7 @@
 | [**meshy-prompt-optimizer**](https://github.com/sanmati1997/meshy-prompt-optimizer) | Prompt optimizer + mesh-quality scorer for text-to-3D: turns weak prompts into production-ready 3D assets, with objective topology metrics. |
 | [**otter-workflow-study**](https://github.com/sanmati1997/otter-workflow-study) | Product teardown of Otter.ai's speaker-ID gap: how workflow choices, not the model, determine transcript quality. |
 | [**covid-ct-classification**](https://github.com/sanmati1997/covid-ct-classification) | 3-class chest CT classification (COVID-19 / Pneumonia / Normal) via MobileNetV2 transfer learning: 84.7% test accuracy, with a paper and honest per-class evaluation. Presented at the Bay Area Frontier Research Club (Stanford). |
+| [**medical-deep-learning**](https://github.com/sanmati1997/medical-deep-learning) | ECG classification (CNN / RNN / XGBoost compared) and diabetic-retinopathy grading (VGG16 transfer learning). |
 | [**FirstApply**](https://sanmati1997.github.io) | Real-time internship-intelligence platform: ingests 6+ job boards and scores each role against your resume. |
 
 ---
